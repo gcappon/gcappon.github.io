@@ -1,6 +1,6 @@
 ---
 title: "Fitbitter"
-excerpt: "Fitbitter<br/><img src='https://i.postimg.cc/W4pq6xhF/fitbitter-logo.png'>"
+excerpt: "Fitbitter: A Flutter package to make your life easier when dealing with Fitbit APIs.<br/><img src='https://i.postimg.cc/W4pq6xhF/fitbitter-logo.png'>"
 collection: portfolio
 ---
 
