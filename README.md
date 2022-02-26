@@ -1,3 +1,3 @@
-#gcapon.github.io 
+# gcappon.github.io 
 
 My personal website. 
