@@ -1,5 +1,5 @@
 ---
-title: "Medical Informatics"
+title: "Medical Informatics, 2020/21"
 collection: teaching
 type: "Masters course"
 permalink: /teaching/2019-2020-medical-informatics
