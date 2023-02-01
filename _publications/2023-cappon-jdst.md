@@ -11,4 +11,4 @@ citation: 'Cappon G, Sparacino G, Facchinetti A. AGATA: A Toolbox for Automated 
 
 [Download paper here](http://gcappon.github.io/files/cappon_jdst_2023.pdf)
 
-Recommended citation: `Noaro G, Cappon G, Vettoretti M, Sparacino G, Favero SD, Facchinetti A. Machine-Learning Based Model to Improve Insulin Bolus Calculation in Type 1 Diabetes Therapy. J Diabetes Sci Technol. 2023 Jan 5:19322968221147570. doi: 10.1177/19322968221147570. Epub ahead of print. PMID: 36602030.`
+Recommended citation: `Cappon G, Sparacino G, Facchinetti A. AGATA: A Toolbox for Automated Glucose Data Analysis. J Diabetes Sci Technol. 2023 Jan 5:19322968221147570. doi: 10.1177/19322968221147570. Epub ahead of print. PMID: 36602030.`
