@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giacomo Cappon"
 title_separator          : "-"
 name                     : &name "Giacomo Cappon"
-description              : &description "PostDoc Research Fellow @ University of Padova"
+description              : &description "Assistant Professor @ DEI, University of Padova"
 url                      : https://gcappon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gcappon/gcappon.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Giacomo Cappon"
   avatar           : "profile.png"
-  bio              : "PostDoc Research Fellow @ University of Padova, YOLO committer"
+  bio              : "Assistant Professor @ DEI, University of Padova, YOLO committer"
   location         : "Padova, Italy"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=giacomo+cappon"
