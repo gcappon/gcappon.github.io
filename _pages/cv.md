@@ -17,14 +17,17 @@ Education
 
 Academic Experience
 ======
-* 2019-2021: Junior PostDoc Research Fellow
-  * University of Padova
-  * Project: Development and clinical assessment of a mobile platform for personalized decision support in type 1 diabetes therapy
+* 2023-Now: Assistant Professor
+  * Department of Information Engineering, University of Padova, Padova, Italy
+  
+* 2021-2023: Senior PostDoc Research Fellow
+  * Department of Information Engineering, University of Padova, Padova, Italy
+  * Project: Development and clinical assessment of a personalized decision support system for postbariatric hypoglycemia management in people who underwent bariatric surgery
   * Supervisor: Prof. Andrea Facchinetti
 
-* 2021-Now: Senior PostDoc Research Fellow
-  * University of Padova
-  * Project: Development and clinical assessment of a personalized decision support system for postbariatric hypoglycemia management in people who underwent bariatric surgery
+* 2019-2021: Junior PostDoc Research Fellow
+  * Department of Information Engineering, University of Padova, Padova, Italy
+  * Project: Development and clinical assessment of a mobile platform for personalized decision support in type 1 diabetes therapy
   * Supervisor: Prof. Andrea Facchinetti
 
 Publications
